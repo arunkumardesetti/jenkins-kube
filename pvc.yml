@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: web-pvc
+  name: webpvc
 
 spec:
   accessModes: 
