@@ -35,7 +35,7 @@ spec:
     spec:
       containers:
       - image: httpd
-        name: web
+        name: myweb
         ports:
         - containerPort: 80
           name: webserver
